@@ -1,16 +1,22 @@
-### Hi there 👋
+# Ryu HyeJeong
+## _Software Convergence_
+Organize personal and internship work.
 
-<!--
-**hyejeong99/hyejeong99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄개인 작업
+- 🤔인턴 기록
+- ⚡외의 코딩 개발 기록
 
-Here are some ideas to get you started:
+## Xytron Intern
+During 12/28 to 6/21
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ROS](https://github.com/hyejeong99/ROS) - Robot Operating System
+- [Exposure Control](https://github.com/hyejeong99/cotrol_exposure) - control cam exposure
+- [Artificial-Intelligence](https://github.com/hyejeong99/Artificial-Intelligence) - DQN, CNN, Lane Pick Viewer
+- 
+## Personal Programming
+
+My coding development record
+
+- [Android] - Android App Development
+- [Web](https://github.com/hyejeong99/Web) - Web Page 
+- [Game](https://github.com/hyejeong99/Game) - To Make Game
