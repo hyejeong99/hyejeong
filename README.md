@@ -3,7 +3,7 @@
 Organize personal and internship work.
 
 - 😄개인 작업
-- 🤔인턴 기록
+- 😄인턴 기록
 - ⚡외의 코딩 개발 기록
 
 ## Xytron Intern
