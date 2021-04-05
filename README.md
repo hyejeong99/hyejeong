@@ -20,6 +20,11 @@ During 12/28 to 6/21
 
 My coding development record
 
-- [Android] - Android App Development
+- [Android](https://github.com/hyejeong99/Android) - Android App Development
 - [Web](https://github.com/hyejeong99/Web) - Web Page 
-- [Game](https://github.com/hyejeong99/Game) - To Make Game
+- [Game](https://github.com/hyejeong99/Game_1) - To Make Game
+- [ImageProcessing](https://github.com/hyejeong99/ImageProcessing) - Image Processing with OpenCV
+- [C](https://github.com/hyejeong99/C) - C Programming
+- [Java](https://github.com/hyejeong99/Java) - Java Programming
+- [R](https://github.com/hyejeong99/R) - R Programming
+- [3D Modeling](https://github.com/hyejeong99/3D-Modeling) - 3D Modeling with Rhino&Keyshot
