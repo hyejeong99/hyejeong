@@ -14,6 +14,7 @@ During 12/28 to 6/21
 - [ROS](https://github.com/hyejeong99/ROS) - Robot Operating System
 - [Exposure Control](https://github.com/hyejeong99/cotrol_exposure) - control cam exposure
 - [Artificial-Intelligence](https://github.com/hyejeong99/Artificial-Intelligence) - DQN, CNN, Lane Pick Viewer
+- [Entry_ROS](https://github.com/hyejeong99/Entry_ROS) - combine Entry with ROS
 
 ## Personal Programming
 ![chris-ried-ieic5Tq8YMk-unsplas_1200x768](https://user-images.githubusercontent.com/59854960/113247722-87a0bb00-92f6-11eb-99de-2949ef3f6c83.jpg)
