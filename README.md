@@ -31,5 +31,5 @@ My coding development record
 - [C](https://github.com/hyejeong99/C) - C Programming
 - [Java](https://github.com/hyejeong99/Java) - Java Programming
 - [R](https://github.com/hyejeong99/R) - R Programming
-- [3D Modeling](https://github.com/hyejeong99/3D-Modeling) - 3D Modeling with Rhino&Keyshot
+- [3D Modeling](https://github.com/hyejeong99/3D_Modeling) - 3D Modeling with Rhino&Keyshot
 - [Entry](https://github.com/hyejeong99/Entry) - Entry Programming
