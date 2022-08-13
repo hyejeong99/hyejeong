@@ -38,7 +38,7 @@ My coding development record
 - [RentalShop](https://github.com/hyejeong99/RentalShop) - RentalShop programming with java
 - [DodamReading](https://github.com/hyejeong99/DodamReading) - children's storytelling app for children's education
 
-## etc
+### etc
 
 - [ImageProcessing](https://github.com/hyejeong99/ImageProcessing) - Image Processing with OpenCV
 - [Data Structure](https://github.com/hyejeong99/Data_Structure) - Data Structure
