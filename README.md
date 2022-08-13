@@ -9,7 +9,7 @@ Organize personal and internship work.
 ## Xytron Intern
 ![xytron](https://user-images.githubusercontent.com/59854960/113247737-8cfe0580-92f6-11eb-9aea-915ef09436c5.jpg)
 
-During 12/28 - 6/21
+During 20.12/28 - 21.6/21
 
 - [ROS](https://github.com/hyejeong99/ROS) - Robot Operating System
 - [Exposure Control](https://github.com/hyejeong99/cotrol_exposure) - control cam exposure
