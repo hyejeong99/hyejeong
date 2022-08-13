@@ -22,19 +22,26 @@ During 12/28 - 6/21
 
 My coding development record
 
-- [Android](https://github.com/hyejeong99/Android) - Android App Development
-- [Web](https://github.com/hyejeong99/Web) - Web Page 
-- [Game](https://github.com/hyejeong99/RPG-Game) - To Make Game
-- [ImageProcessing](https://github.com/hyejeong99/ImageProcessing) - Image Processing with OpenCV
-- [Data Structure](https://github.com/hyejeong99/Data_Structure) - Data Structure
-- [Computer Algorithms](https://github.com/hyejeong99/Computer_Algorithms) - Computer Algorithms
+### programming language
 - [C](https://github.com/hyejeong99/C) - C++ Programming
 - [Java](https://github.com/hyejeong99/Java) - Java Programming
 - [R](https://github.com/hyejeong99/R) - R Programming
+
+### project
+
+- [Android](https://github.com/hyejeong99/Android) - Android App Development
+- [Web](https://github.com/hyejeong99/Web) - Web Page 
+- [Game](https://github.com/hyejeong99/RPG-Game) - To Make Game
 - [3D Modeling](https://github.com/hyejeong99/3D_Modeling) - 3D Modeling with Rhino&Keyshot
 - [Entry](https://github.com/hyejeong99/Entry) - Entry Programming
-- [GPS](https://github.com/hyejeong99/AndroidStudio-GPS) - using GPS in Android Studio
-- [KakaoMap](https://github.com/hyejeong99/kakaomap-API) - using kakaomap API
 - [WinForms](https://github.com/hyejeong99/WinForms) - WinForms with C#
 - [RentalShop](https://github.com/hyejeong99/RentalShop) - RentalShop programming with java
 - [DodamReading](https://github.com/hyejeong99/DodamReading) - children's storytelling app for children's education
+
+## etc
+
+- [ImageProcessing](https://github.com/hyejeong99/ImageProcessing) - Image Processing with OpenCV
+- [Data Structure](https://github.com/hyejeong99/Data_Structure) - Data Structure
+- [Computer Algorithms](https://github.com/hyejeong99/Computer_Algorithms) - Computer Algorithms
+- [GPS](https://github.com/hyejeong99/AndroidStudio-GPS) - using GPS in Android Studio
+- [KakaoMap](https://github.com/hyejeong99/kakaomap-API) - using kakaomap API
