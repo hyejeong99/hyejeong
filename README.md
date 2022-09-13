@@ -1,6 +1,6 @@
 # Ryu HyeJeong
 ## _Software Convergence_
-Organize personal and internship work.
+Organize personal and internship work !
 
 - 😄개인 작업
 - 😄인턴 기록
