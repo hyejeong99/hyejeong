@@ -17,12 +17,11 @@ During 20.12/28 - 21.6/21
 - [Entry_ROS](https://github.com/hyejeong99/Entry_ROS) - combine Entry with ROS
 - [pygame](https://github.com/hyejeong99/Python_pygame) - game simulator in python
 
-##SYtech Intern
+## SYtech Intern
 
 During 22.07.01 - 23.04.31
 
 - [WinForms] - C# Programming WinForms
-
   (https://github.com/hyejeong99/WinForms)
   (https://github.com/hyejeong99/Winforms_CrystalReport)
   (https://github.com/hyejeong99/Winforms_PDF_Email)
@@ -41,13 +40,11 @@ My coding development record
 ### project
 
 - [Android]- Android App Development
-
   (https://github.com/hyejeong99/Android)
   (https://github.com/hyejeong99/Android_GPS)
   (https://github.com/hyejeong99/Android_kakaomap)
 - [Web](https://github.com/hyejeong99/Web) - Web Page 
 - [Unity] - Unity RPG Game
-
   (https://github.com/hyejeong99/DodamReading)
   (https://github.com/hyejeong99/Unity_RPG)
 - [3D Modeling](https://github.com/hyejeong99/3DModeling) - 3D Modeling with Rhino&Keyshot
