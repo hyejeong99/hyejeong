@@ -12,16 +12,16 @@ Organize personal and internship work
 During 20.12/28 - 21.6/21
 
 - [ROS](https://github.com/hyejeong99/ROS) - Robot Operating System
-- [Exposure Control](https://github.com/hyejeong99/cotrol_exposure) - control cam exposure
+- [Exposure Control](https://github.com/hyejeong99/cotrol_exposure) - Control Cam Exposure
 - [Artificial Intelligence](https://github.com/hyejeong99/Python_AI) - DQN, CNN, Lane Pick Viewer
-- [Entry_ROS](https://github.com/hyejeong99/Entry_ROS) - combine Entry with ROS
-- [pygame](https://github.com/hyejeong99/Python_pygame) - game simulator in python
+- [Entry_ROS](https://github.com/hyejeong99/Entry_ROS) - Combine Entry with ROS
+- [pygame](https://github.com/hyejeong99/Python_pygame) - Game Simulator In Python
 
 ## SYtech Intern
 
 During 22.07.01 - 23.04.31
 
-- [WinForms] - C# Programming WinForms
+- WinForms - C# Programming WinForms
   - (https://github.com/hyejeong99/WinForms)
   - (https://github.com/hyejeong99/Winforms_CrystalReport)
   - (https://github.com/hyejeong99/Winforms_PDF_Email)
@@ -39,24 +39,21 @@ My coding development record
 
 ### project
 
-- [Android]- Android App Development
+- Android- Android App Development
   - (https://github.com/hyejeong99/Android)
   - (https://github.com/hyejeong99/Android_GPS)
   - (https://github.com/hyejeong99/Android_kakaomap)
 - [Web](https://github.com/hyejeong99/Web) - Web Page 
-- [Unity] - Unity RPG Game
+- Unity - Unity RPG&Education Game
   - (https://github.com/hyejeong99/DodamReading)
   - (https://github.com/hyejeong99/Unity_RPG)
 - [3D Modeling](https://github.com/hyejeong99/3DModeling) - 3D Modeling with Rhino&Keyshot
 - [Entry](https://github.com/hyejeong99/Entry) - Entry Programming
-- [WinForms](https://github.com/hyejeong99/WinForms) - WinForms with C#
 - [RentalShop](https://github.com/hyejeong99/RentalShop) - RentalShop programming with java
-- [OpenAPI](https://github.com/hyejeong99/OpenAPI)
+- [OpenAPI](https://github.com/hyejeong99/OpenAPI) - Using Public Data API
 
 ### etc
 
 - [Image Processing](https://github.com/hyejeong99/C_ImageProcessing) - Image Processing with OpenCV
 - [Data Structure](https://github.com/hyejeong99/C_DataStructure) - Data Structure
 - [Computer Algorithms](https://github.com/hyejeong99/C_Algorithms) - Computer Algorithms
-- [GPS](https://github.com/hyejeong99/AndroidStudio-GPS) - using GPS in Android Studio
-- [KakaoMap](https://github.com/hyejeong99/kakaomap-API) - using kakaomap API
