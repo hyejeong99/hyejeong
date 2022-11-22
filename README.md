@@ -22,9 +22,9 @@ During 20.12/28 - 21.6/21
 During 22.07.01 - 23.04.31
 
 - [WinForms] - C# Programming WinForms
-  (https://github.com/hyejeong99/WinForms)
-  (https://github.com/hyejeong99/Winforms_CrystalReport)
-  (https://github.com/hyejeong99/Winforms_PDF_Email)
+  - (https://github.com/hyejeong99/WinForms)
+  - (https://github.com/hyejeong99/Winforms_CrystalReport)
+  - (https://github.com/hyejeong99/Winforms_PDF_Email)
 
 
 ## Personal Programming
@@ -40,13 +40,13 @@ My coding development record
 ### project
 
 - [Android]- Android App Development
-  (https://github.com/hyejeong99/Android)
-  (https://github.com/hyejeong99/Android_GPS)
-  (https://github.com/hyejeong99/Android_kakaomap)
+  - (https://github.com/hyejeong99/Android)
+  - (https://github.com/hyejeong99/Android_GPS)
+  - (https://github.com/hyejeong99/Android_kakaomap)
 - [Web](https://github.com/hyejeong99/Web) - Web Page 
 - [Unity] - Unity RPG Game
-  (https://github.com/hyejeong99/DodamReading)
-  (https://github.com/hyejeong99/Unity_RPG)
+  - (https://github.com/hyejeong99/DodamReading)
+  - (https://github.com/hyejeong99/Unity_RPG)
 - [3D Modeling](https://github.com/hyejeong99/3DModeling) - 3D Modeling with Rhino&Keyshot
 - [Entry](https://github.com/hyejeong99/Entry) - Entry Programming
 - [WinForms](https://github.com/hyejeong99/WinForms) - WinForms with C#
