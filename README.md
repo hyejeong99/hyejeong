@@ -4,7 +4,6 @@ Organize personal and internship work
 
 - 😄개인 작업
 - 😄인턴 기록
-- 외의 코딩 개발 기록
 
 ## Xytron Intern
 ![xytron](https://user-images.githubusercontent.com/59854960/113247737-8cfe0580-92f6-11eb-9aea-915ef09436c5.jpg)
@@ -25,6 +24,8 @@ During 22.07.01 - 23.04.31
   - (https://github.com/hyejeong99/WinForms)
   - (https://github.com/hyejeong99/Winforms_CrystalReport)
   - (https://github.com/hyejeong99/Winforms_PDF_Email)
+  - (https://github.com/hyejeong99/WInForms_hosting)
+  - (https://github.com/hyejeong99/Node.js_hosting)
 
 
 ## Personal Programming
@@ -46,6 +47,7 @@ My coding development record
 - [Web](https://github.com/hyejeong99/Web) - Web Page 
 - Unity - Unity RPG&Education Game
   - (https://github.com/hyejeong99/DodamReading)
+  - (https://github.com/hyejeong99/DodamSafeCenter)
   - (https://github.com/hyejeong99/Unity_RPG)
 - [3D Modeling](https://github.com/hyejeong99/3DModeling) - 3D Modeling with Rhino&Keyshot
 - [Entry](https://github.com/hyejeong99/Entry) - Entry Programming
