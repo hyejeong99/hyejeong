@@ -41,14 +41,14 @@ My coding development record
 ### project
 
 - Android- Android App Development
-  - (https://github.com/hyejeong99/Android)
-  - (https://github.com/hyejeong99/Android_GPS)
-  - (https://github.com/hyejeong99/Android_kakaomap)
+  - https://github.com/hyejeong99/Android
+  - https://github.com/hyejeong99/Android_GPS
+  - https://github.com/hyejeong99/Android_kakaomap
 - [Web](https://github.com/hyejeong99/Web) - Web Page 
 - Unity - Unity RPG&Education Game
-  - (https://github.com/hyejeong99/DodamReading)
-  - (https://github.com/hyejeong99/DodamSafeCenter)
-  - (https://github.com/hyejeong99/Unity_RPG)
+  - https://github.com/hyejeong99/DodamReading
+  - https://github.com/hyejeong99/DodamSafeCenter
+  - https://github.com/hyejeong99/Unity_RPG
 - [3D Modeling](https://github.com/hyejeong99/3DModeling) - 3D Modeling with Rhino&Keyshot
 - [Entry](https://github.com/hyejeong99/Entry) - Entry Programming
 - [RentalShop](https://github.com/hyejeong99/RentalShop) - RentalShop programming with java
