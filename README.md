@@ -1,9 +1,5 @@
 # Ryu HyeJeong
 ## _Software Convergence_
-Organize personal and internship work
-
-- 😄개인 작업
-- 😄인턴 기록
 
 ## Xytron Intern
 ![xytron](https://user-images.githubusercontent.com/59854960/113247737-8cfe0580-92f6-11eb-9aea-915ef09436c5.jpg)
