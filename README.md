@@ -14,7 +14,7 @@ During 20.12/28 - 21.6/21
 
 ## SYtech Intern
 
-During 22.07.01 - 23.04.31
+During 22.07.01 - 23.02.28
 
 - WinForms - C# Programming WinForms
   - https://github.com/hyejeong99/WinForms
